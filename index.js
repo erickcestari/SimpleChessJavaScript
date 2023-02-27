@@ -121,13 +121,11 @@ class King extends Pieces{
             }
             else if (this.x -indexX == 2){
                 for(let l = this.x - 1; l > indexX - 2; l--){
-                    console.log('x' + l)
                     if(i.x == l && i.y == this.y) return false;
                 }
             }
             
         }
-        console.log('rockou')
         return true;
     }
     move(){
