@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(4, 70, 75);
+}
+
+.myCanvas{
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(3, 40, 43);
+    box-shadow: #021615 20px -16px;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
