@@ -1,4 +1,4 @@
 # SimpleChessJavaSricpt
 A chess wich can run in a web page! <br>
-https://erickcestari.github.io/SimpleChessJavaSricpt/
+Link: https://erickcestari.github.io/SimpleChessJavaScript/
 ## enjoy ♟️ 
