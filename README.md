@@ -10,7 +10,7 @@ SimpleChessJavaScript is a simple chess game that you can play on your web brows
 <h2>Features</h2>
    <ul>
      <li>Legal move detection</li>
-     <li>Support for castling, en passant, and pawn promotion</li>
+     <li>Support for castling and pawn promotion</li>
    </ul>
 Link: https://erickcestari.github.io/SimpleChessJavaScript/
 
